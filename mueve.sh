@@ -1,0 +1,17 @@
+echo "<svg width=\"1000\" height=\"1000\" xmlns=\"http://www.w3.org/2000/svg\">"
+
+echo "<circle r=\"50\" fill=\"green\"><animateMotion dur=\"10s\" repeatCount=\"indefinite\" path=\"M 100,100 800,100 800,900 100,900 z\"/>"
+echo "</circle>"
+echo "<circle r=\"50\" fill=\"orange\"><animateMotion dur=\"9s\" repeatCount=\"indefinite\" path=\"M 200,100 800,100 800,900 100,900 z\"/>"
+echo "</circle>"
+echo "<circle r=\"50\" fill=\"blue\"><animateMotion dur=\"8s\" repeatCount=\"indefinite\" path=\"M 300,100 800,100 800,900 100,900 z\"/>"
+echo "</circle>"
+
+echo "<circle r=\"50\" fill=\"red\"><animateMotion dur=\"10s\" repeatCount=\"indefinite\" path=\"M 100,100 100,900 800,900 800,100 z\"/>"
+echo "</circle>"
+echo "<circle r=\"50\" fill=\"purple\"><animateMotion dur=\"9s\" repeatCount=\"indefinite\" path=\"M 100,200 100,900 800,900 800,100 z\"/>"
+echo "</circle>"
+echo "<circle r=\"50\" fill=\"yellow\"><animateMotion dur=\"8s\" repeatCount=\"indefinite\" path=\"M 100,300 100,900 800,900 800,100 z\"/>"
+echo "</circle>"
+echo "<text x=\"100\" y=\"100 \">Cuauhtemoc Segura Garfias 2405579B 10/oct/24</text>"
+echo "</svg>"
